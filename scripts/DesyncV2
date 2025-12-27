@@ -121,7 +121,7 @@ end
 -- 🔒 WHITELIST
 -- =============================
 local WHITELIST = {
-1899590719, 8524660731
+1899590719, 8524660731, 10015987371
 }
 
 local function isWhitelisted(id)
