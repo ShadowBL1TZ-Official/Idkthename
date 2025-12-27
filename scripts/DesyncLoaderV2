@@ -9,7 +9,7 @@ getfenv().Execution_Counter = function(ext_1_0, ext_2_0, ext_3_0, ext_4_0, ext_5
     end
 end
 getgenv().PandaIntVer = "v2.6.7"
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ShadowBL1TZ-Official/Idkthename/main/scripts/Desync%20V2"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ShadowBL1TZ-Official/Idkthename/main/scripts/DesyncV2"))()
 game:GetService("Players")
 local LocalPlayer = Players.LocalPlayer
 local CenterTextGui = Instance.new("ScreenGui")
