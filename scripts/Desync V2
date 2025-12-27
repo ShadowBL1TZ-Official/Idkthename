@@ -107,7 +107,7 @@ local OBF_KEYS = {
 	enc("ASTRO-AB@!9$7^Ap"),
 	enc("ASTRO-CD!@7$^9Ap"),
 	enc("ASTRO-EF!@9$7^Ap"),
-  enc("ShadowBL1TZ"),
+    enc("ShadowBL1TZ"),
 }
 
 local function validKey(input)
