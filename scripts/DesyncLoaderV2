@@ -98,6 +98,9 @@ Connection = TextButton.MouseButton1Click:Connect(function()
         -- false, eq id 36
         if (1001598737 == UserId) then -- didnt run, expr id 46, has no else.
         end
+        -- false, eq id 36
+        if (8524660731 == UserId) then -- didnt run, expr id 46, has no else.
+        end
         local _ = LocalPlayer:Kick("You are not whitelisted.")
     end
 end)
